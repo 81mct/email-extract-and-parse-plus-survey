@@ -1,0 +1,12 @@
+Timestamp,Event,Sender,Recipient,Delivery Status Message,Actions
+05/03/23 11:30AM,Delivered,do-not-reply@zensights.net,rkarelas@impelpharma.com,OK,
+05/03/23 11:30AM,Accepted,do-not-reply@zensights.net,urbisci@addesso.com,--,
+05/03/23 11:30AM,Accepted,do-not-reply@zensights.net,rkarelas@impelpharma.com,--,
+05/03/23 11:23AM,Delivered,do-not-reply@zensights.net,urbisci@addesso.com,OK,
+05/03/23 11:23AM,Delivered,do-not-reply@zensights.net,ericbrandonjr@gmail.com,OK,
+05/03/23 11:23AM,Accepted,do-not-reply@zensights.net,ericbrandonjr@gmail.com,--,
+05/03/23 11:23AM,Accepted,do-not-reply@zensights.net,urbisci@addesso.com,--,
+05/03/23 10:37AM,Opened,,ucb577@gmail.com,--,
+05/03/23 10:37AM,Delivered,do-not-reply@zensights.net,urbisci@addesso.com,OK,
+05/03/23 10:37AM,Delivered,do-not-reply@zensights.net,ucb577@gmail.com,OK,
+05/03/23 10:37AM,Accepted,do-not-reply@zensights.net,urbisci@addesso.com,--,

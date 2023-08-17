@@ -1,0 +1,12 @@
+Timestamp,Event,Sender,Recipient,Delivery Status Message,Actions
+06/13/23 12:02PM,Delivered,kjansen@zensights.com,alan.inglis@bcs.org,OK,
+06/13/23 12:02PM,Delivered,kjansen@zensights.com,urbisci@addesso.com,OK,
+06/13/23 12:02PM,Accepted,kjansen@zensights.com,alan.inglis@bcs.org,--,
+06/13/23 12:02PM,Accepted,kjansen@zensights.com,urbisci@addesso.com,--,
+06/13/23 11:34AM,Clicked,,ucb577@gmail.com,--,
+06/13/23 11:34AM,Opened,,ucb577@gmail.com,--,
+06/13/23 11:33AM,Delivered,kjansen@zensights.com,urbisci@addesso.com,OK,
+06/13/23 11:33AM,Delivered,kjansen@zensights.com,ucb577@gmail.com,OK,
+06/13/23 11:33AM,Accepted,kjansen@zensights.com,ucb577@gmail.com,--,
+06/13/23 11:33AM,Accepted,kjansen@zensights.com,urbisci@addesso.com,--,
+06/13/23 11:26AM,Clicked,,apezzano19428@yahoo.com,--,
